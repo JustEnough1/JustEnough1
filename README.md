@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Estonian language learning app](https://github.com/JustEnough1/Estikas-client)
 
-- 🌱 I’m currently learning **SASS, C# and MongoDB**
+- 🌱 I’m currently learning **C# and MongoDB**
 
 - 👨‍💻 Learn more about me and my projects - [https://justenough1.github.io/](https://justenough1.github.io/)
 
